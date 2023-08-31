@@ -6,3 +6,21 @@ catalogue.chamarthiaparna.online
 
 [web]
 web.chamarthiaparna.online
+
+[redis]
+redis.chamarthiaparna.online
+
+[user]
+user.chamarthiaparna.online
+
+[cart]
+cart.chamarthiaparna.online
+
+[mysql]
+mysql.chamarthiaparna.online
+
+[shipping]
+shipping.chamarthiaparna.online
+
+[rabbitmq]
+rabbitmq.chamarthiaparna.online
