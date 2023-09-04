@@ -24,3 +24,6 @@ shipping.chamarthiaparna.online
 
 [rabbitmq]
 rabbitmq.chamarthiaparna.online
+
+[payment]
+payment.chamarthiaparna.online
